@@ -1,0 +1,11 @@
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\redst\Desktop\PROGRAMACION DE SOFTWARE\PROYECTO\Composicion\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
